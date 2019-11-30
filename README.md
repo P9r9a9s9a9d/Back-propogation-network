@@ -12,4 +12,5 @@ Technology:
 R 
 
 Project Description:
-In this project a Feed Forward network is built and the weights are updated using Back Propogation Network. It is a usual theoretical problem which is taught in neural network books to understand the working of Back Propogation Network, which is automated in this project using R to understand the ways the weights are updated, how do Sigmoidal Activation function is used to calculate the output, the effect of learning rate on the model's ability to achieve desired results. Anyone can find the question which is automated in any of the advanced Neural Network textbooks
+In this project a Feed Forward network is built and the weights are updated using Back Propogation Network. It is a usual theoretical problem which is taught in neural network books to understand the working of Back Propogation Network, which is automated in this project using R to understand the ways the weights are updated, how do Sigmoidal Activation function is used to calculate the output, the effect of learning rate on the model's ability to achieve desired results. The question which is automated is:
+Using back propogation network find the new weights for the following figure. It is representated with the input pattern (0,1) & the target ouput is 1. Use a learning rate alpha =0.25 & apply binary sigmoidal activation function.
